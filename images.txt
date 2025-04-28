@@ -1,6 +1,9 @@
 nginx
 node:16.0.0
 mysql:5.7
+mysql:8.0
+postgres:15
+postgres:16
 redis
 #支持私库镜像
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
